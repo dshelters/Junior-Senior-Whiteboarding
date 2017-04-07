@@ -14,6 +14,10 @@ TODO
 ##### Notes for the Interviewer
 This is a good warm up problem. The real point here is for the interviewee to actually find out the constraints. Mainly that ALL of the labels are incorrect. If they ask tell them this. If they don't, and assume that the labels may or may not be correct let them continue to ruminate about it and go off course.
 
+###### Hints
+1. What if you discovered that the surprise button gave you a Coke?
+2. (Only if they ask!) All of the labels are incorrect.
+
 #### _25 Horses_
 > Let’s say that you have 25 horses, and you want to pick the fastest 3 horses out of those 25. In each race, only 5 horses can run at the same time because there are only 5 tracks. What is the minimum number of races required to find the 3 fastest horses.
 
@@ -23,10 +27,6 @@ Once again this exercise is about communication. The goal is to intentionally va
 ###### Hints
 1. You know the finishing positions of the horses.
 2. There is no stopwatch.
-
-###### Hints
-1. What if you discovered that the surprise button gave you a Coke?
-2. (Only if they ask!) All of the labels are incorrect.
 
 #### _Cyclical Linked List_
 > Write a function to detect if a linked list has a "cycle" (a loop), without extra storage.
