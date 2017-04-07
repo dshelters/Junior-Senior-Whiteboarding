@@ -54,7 +54,7 @@ How can you programmatically determine that it has a cycle, without using any ot
 ##### Notes for the Interviewer
 This problem is meant to focus on diagramming and getting to a working solution with pseudocode on the whiteboard. Syntax is not important at all.
 
-This is very much something the junior will either get or they won't. It's good to use to get the interviewee to continually talk about their thought process. There are multiple solutions to this problem. If they get to answer that isn't the one below hint that there is a more efficient solution.
+This is very much something the junior will either get or they won't. It's good to use to get the interviewee to continually talk about their thought process. There are multiple solutions to this problem. If they get to an answer that isn't the one below, hint that there is a more efficient solution.
 
 ###### Hints
 NONE
