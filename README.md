@@ -16,6 +16,13 @@ This is a good warm up problem. The real point here is for the interviewee to ac
 ###### Hints
 1. What if you discovered that the surprise button gave you a Coke?
 2. (Only if they ask!) All of the labels are incorrect.
+
+###### Answer
+One
+
+Taste the can that you get by hitting the button with the surprise label. Without loss of generality, let's say this is a Coke. This means that this button should be labeled Coke (it cannot be the Pepsi button, because that never gives a Coke, and it cannot be the surprise button because all the labels were wrong).
+
+Now what about the other two buttons? One is labeled Pepsi, but is either the surprise or Pepsi. Since it is labeled wrong, it cannot be Pepsi, so it is the surprise button. Finally, this leaves the button labeled Coke, which must be the Pepsi button.
 ---
 #### _25 Horses_
 > Let’s say that you have 25 horses, and you want to pick the fastest 3 horses out of those 25. In each race, only 5 horses can run at the same time because there are only 5 tracks. What is the minimum number of races required to find the 3 fastest horses.
